@@ -3,8 +3,8 @@ My name is Shashiwadana Nirmani🙂. I'm an undergraduate of University of Morat
 
 ## 🔗 Find me on 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/facebook.svg" />][Facebook]
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/stackoverflow.svg" />][StackOverFlow]
+[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/facebook.svg" />][Facebook]
 <br>
 <br>
 ## &#x1f4c8;GitHub Stats
