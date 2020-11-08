@@ -18,8 +18,6 @@ My name is Shashiwadana Nirmani🙂. I'm an undergraduate of University of Morat
 
 ## 🔧Technologies & Tools
 
-![](https://img.shields.io/badge/Editor-Pycharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
@@ -29,6 +27,8 @@ My name is Shashiwadana Nirmani🙂. I'm an undergraduate of University of Morat
 ![](https://img.shields.io/badge/Database-MYSQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Pycharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DataMining-Weka-informational?style=flat&logo=weka&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Ontology-Protégé-informational?style=flat&logo=protégé&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/ImageProcessing-OpenCV-informational?style=flat&logo=opencv&logoColor=white&color=2bbc8a)
