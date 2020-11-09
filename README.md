@@ -12,7 +12,7 @@ My name is Shashiwadana Nirmani🙂. I'm an undergraduate of University of Morat
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashiwadana&langs_count=6,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/shashiwadana/Shashiwadana">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shashiwadana&show_icons=true&theme=radical&hide=stars" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shashiwadana&show_icons=true&theme=radical&hide=stars&count_private=true" alt="Martin's GitHub Stats" />
 </a>
 <br>
 
