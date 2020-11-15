@@ -7,7 +7,7 @@ My name is Shashiwadana Nirmani🙂. I'm an undergraduate of University of Morat
   </tr>
 </table>
 
-## 🔭 Find me on 
+## Find me on 🔭  
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/stackoverflow.svg" />][StackOverFlow]
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/medium.svg" />][Medium]
@@ -15,7 +15,7 @@ My name is Shashiwadana Nirmani🙂. I'm an undergraduate of University of Morat
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/facebook.svg" />][Facebook]
 <br>
 <br>
-## 👀Stackoverflow Overview
+## 📋Stackoverflow Overview
 [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9438103&theme=dark)](https://stackoverflow.com/users/9438103/shashiwadana)
 ## &#x1f4c8;GitHub Stats
 <a href="https://github.com/MartinHeinz/MartinHeinz">
