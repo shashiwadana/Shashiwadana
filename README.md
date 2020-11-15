@@ -9,7 +9,7 @@ My name is Shashiwadana Nirmani🙂. I'm an undergraduate of University of Morat
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/facebook.svg" />][Facebook]
 <br>
 <br>
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9438103)](https://stackoverflow.com/users/9438103/shashiwadana)
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9438103&theme=dark)](https://stackoverflow.com/users/9438103/shashiwadana)
 ## &#x1f4c8;GitHub Stats
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashiwadana&langs_count=6,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
