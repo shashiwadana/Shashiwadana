@@ -1,5 +1,11 @@
 # Hello, folks! <img src="https://github.com/shashiwadana/Shashiwadana/blob/main/wave.gif" width="30px">
 My name is Shashiwadana Nirmani🙂. I'm an undergraduate of University of Moratuwa👩‍💻.
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/shashiwadana/count.svg" alt="" /></td>
+  </tr>
+</table>
 
 ## 🔗 Find me on 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
