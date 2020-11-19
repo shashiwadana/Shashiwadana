@@ -1,5 +1,5 @@
 # Hello, folks! <img src="https://github.com/shashiwadana/Shashiwadana/blob/main/wave.gif" width="30px">
-My name is Shashiwadana Nirmani🙂. I'm an undergraduate of University of Moratuwa👩‍🎓.
+I'm Shashiwadana Nirmani; an undergraduate of University of Moratuwa👩‍🎓.
 <table>
   <tr>
     <td>You are visitor</td>
