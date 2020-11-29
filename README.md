@@ -8,13 +8,13 @@ I'm Shashiwadana Nirmani; an undergraduate of University of Moratuwa👩‍🎓.
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/facebook.svg" />][Facebook]
 <br>
 ## 📋Stackoverflow Overview
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9438103&theme=dark)](https://stackoverflow.com/users/9438103/shashiwadana)
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9438103)](https://stackoverflow.com/users/9438103/shashiwadana)
 ## &#x1f4c8;GitHub Stats
 <a href="https://github.com/shashiwadana/Shashiwadana">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shashiwadana&show_icons=true&theme=radical&count_private=true" alt="Shashiwadana's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shashiwadana&show_icons=true&count_private=true&title_color=000000&text_color=000000&icon_color=ff6600" alt="Shashiwadana's GitHub Stats" />
 </a>
 <a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashiwadana&layout=compact&langs_count=6,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashiwadana&layout=compact&langs_count=6,html&title_color=000000&text_color=000000&icon_color=ff6600" />
 </a>
 
 ## 💻 Technologies & Tools
