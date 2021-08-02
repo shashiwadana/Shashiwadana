@@ -6,8 +6,6 @@ I'm Shashiwadana Nirmani; an undergraduate of University of Moratuwa. You can fi
 [<img   width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/hackerrank.svg" />][Hackerrank]
 [<img   width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/facebook.svg" />][Facebook]
 <br>
-### 📋 Stackoverflow Overview
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9438103)](https://stackoverflow.com/users/9438103/shashiwadana)
 ### &#x1f4c8; GitHub Stats
 <a href="https://github.com/shashiwadana/Shashiwadana">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shashiwadana&show_icons=true&count_private=true&title_color=000000&text_color=000000&icon_color=ff6600" alt="Shashiwadana's GitHub Stats" />
